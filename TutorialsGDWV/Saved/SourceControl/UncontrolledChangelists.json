@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/TurretFunction/BP_Turret.uasset",
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/ModelsImport/Cube.uasset",
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/JW/SKFV2HTT2W0CQQ5PEBDROS.uasset",
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/W1/8HQL8DB3FY00IHJ6F7HIZM.uasset",
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/ModelsImport/Cube_001.uasset",
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/ModelsImport/FbxScene_TurretBase.uasset",
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8O/G3ZZ7OS4TSZPY31FZQ4YYN.uasset",
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/ZG/C033SRZPHL8ECAH77XIZOS.uasset",
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/ModelsImport/FbxScene_TurretTop.uasset",
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/ModelsImport/TurretBase.uasset",
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/ModelsImport/TurretTop.uasset",
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/TurretFunction/MyFunction.uasset",
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/59/FMNRPQ6VMX3A94PQR1H1PC.uasset",
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/ModelsImport/FbxScene_Turret_Bullet.uasset",
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/2D/XR1FG0DC40B65T74G4QRN8.uasset",
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/JG/7U06XQ1FV2WPM1H8MCGMM5.uasset",
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/ModelsImport/Cube_1.uasset",
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/TurretFunction/Test.uasset",
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/ModelsImport/Turret_Bullet.uasset",
+				"C:/Users/David/Desktop/GDW V/GDW-V-Tutorials/TutorialsGDWV/Content/ModelsImport/Material.uasset"
+			]
+		}
+	]
+}
